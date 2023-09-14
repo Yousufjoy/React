@@ -1,10 +1,10 @@
 import "./App.css";
-import { Users } from "./Users";
+import Countries from "./components/Countries/Countries";
 
 function App() {
   return (
     <>
-      <Users />
+      <Countries />
     </>
   );
 }
